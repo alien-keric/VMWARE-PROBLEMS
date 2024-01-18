@@ -1,4 +1,6 @@
 #!/bin/bash
+
+## Author alienkeric (alienX)
 VMWARE_VERSION=workstation-17.0.2 #This needs to be the actual name of the appropriate branch in mkubecek's GitHub repo for your purposes
 TMP_FOLDER=/tmp/patch-vmware
 rm -fdr $TMP_FOLDER
